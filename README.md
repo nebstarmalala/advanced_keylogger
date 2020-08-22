@@ -5,6 +5,6 @@
 * Edit the config.py file to fit your credentials
 
 ## Disclaimer
-* This toll is not to be used for any illegal operations
+* This tool is not to be used for any illegal operations
 
 
