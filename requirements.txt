@@ -1,0 +1,13 @@
+pywin32
+pynput.keyboard
+os
+time
+requests
+socket
+random
+smtplib
+email.mime.multipart
+email.mime.text
+email.mime.base
+email
+threading
